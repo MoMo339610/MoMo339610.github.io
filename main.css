@@ -1,0 +1,15 @@
+.jumbotron{
+	background-color: gold;
+	padding: 50px;
+}
+
+.item img {
+	width:100%;
+}
+#messageform {
+	padding: 10px 50px;
+}
+textarea{
+	resize: none;
+	margin-bottom: 24px;
+}
