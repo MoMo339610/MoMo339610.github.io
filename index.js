@@ -1,3 +1,10 @@
+var freshmen=5;
+var sophomores=5;
+var juniors=5;
+var seniors=5;
+function addpoints(){
+
+}
 function validate(){
 	var name= $("#name").val();
 	var message= $("#message").val();

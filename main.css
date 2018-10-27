@@ -1,14 +1,35 @@
 .jumbotron{
-	background-color: gold;
+	background-color: green;
 	padding: 50px;
+	padding-top:70px;
+	padding-bottom:30px;
+}
+.jumbotron h1{
+	color: #FFDEAD;
+	font-family: 'Charmonman', cursive;
+}
+.jumbotron h3{
+	color: #FFEF7D;
+	font-family: 'Playfair Display', serif;
+}
+
+.row{
+	text-align: center;
 }
 
 .item img {
 	width:100%;
 }
-#messageform {
-	padding: 10px 50px;
+
+#messageform1{
+	padding-left: 50px;
+	font-family: 'Dancing Script', cursive;
 }
+
+#messageform {
+	padding: 5px 50px;
+}
+
 textarea{
 	resize: none;
 	margin-bottom: 24px;
